@@ -8,9 +8,17 @@ The Food Ordering website - QuickBite is built using [Django](https://www.django
 * The website incorporates user authentication for logging in and logging out, and it includes <b>email verification</b> as part of the signing up process.
 * Features menus from multiple food outlets across the campus, allowing users to order food conveniently from a variety of options in one place.
 * Provides a user-friendly experience by categorizing menus from various food outlets into intuitive <b>sections</b> and <b>subsections</b>, allowing users to quickly find and browse through their preferred cuisine options
-* **Features for Registered Users**
+
+* **Features for Registered Users:**
   - The website offers a straightforward and user-friendly process for ordering items from any food outlet.
   - Users can easily track their **Current Order** and view their **Order Logs** to stay informed about the delivery status of their orders and access their previous orders.
   - Receive **email notifications** upon placing an order and upon its delivery, ensuring they are updated throughout the ordering process.
+  
+* **Features for Food Outlet Users:**
+  - Owners can easily update their menus using a simple and intuitive process organized into sections and subsections.
+  - Owners can view the orders that have been placed, including their delivery status, in the **Orders Received** section.
+  - Receive **email notifications** whenever an order is placed.
+  - Update the delivery status of orders to ensure customers receive notifications and maintain accuracy.
+
 
   
