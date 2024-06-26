@@ -7,5 +7,5 @@ The Food Ordering website - QuickBite is built using [Django](https://www.django
 # Features
 * The website incorporates user authentication for logging in and logging out, and it includes <b>email verification</b> as part of the signing up process.
 * Features menus from multiple food outlets across the campus, allowing users to order food conveniently from a variety of options in one place.
-* Provides a user-friendly experience by categorizing menus from various food outlets into intuitive sections and subsections, allowing users to quickly find and browse through their preferred cuisine options
+* Provides a user-friendly experience by categorizing menus from various food outlets into intuitive <b>sections</b> and <b>subsections</b>, allowing users to quickly find and browse through their preferred cuisine options
   
