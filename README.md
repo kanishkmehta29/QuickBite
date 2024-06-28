@@ -69,6 +69,9 @@ The Food Ordering website - QuickBite is built using [Django](https://www.django
 * <b> Users can order items by simply clicking 'order' in the subsection of their choice </b></br></br></br>
 
 * <b> Current Order and Order Confirmation Pages </b></br></br>
-
+<p align="center">
+  <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/currentorder.png" height="300" width="45%"/>
+  <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/orderconfirmation.png" height="300" width="45%"/>
+</p>
 
   
