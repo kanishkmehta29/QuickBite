@@ -91,7 +91,7 @@ The Food Ordering website - QuickBite is built using [Django](https://www.django
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/ordersreceivedlognew.png" height="500" width="45%"/>
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/ordersrecievedcurr.png" height="500" width="50%" style="object-fit: cover;"/>
 </p>
-* <b> Outlet  owners can just click 'Delivered' to update the status and send notification to customers </b>:</br>
+* <b> Outlet  owners can just click 'Delivered' to update the status and send notification to customers </b></br>
 * <b> Access Denied Page (on visiting restricted pages like accessing some other users orders etc ..) </b></br>
 <div align = "center" style="display: flex; justify-content: center; margin-top: 20px;">
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/accessdeneid.png" alt="image3" height="300"/>
