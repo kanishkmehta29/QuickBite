@@ -96,3 +96,8 @@ The Food Ordering website - QuickBite is built using [Django](https://www.django
 <div align = "center" style="display: flex; justify-content: center; margin-top: 20px;">
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/accessdeneid.png" alt="image3" height="300"/>
 </div>
+# Team:
+
+This project was made by:
+* [Chandrashekhar Dharmarajan](https://github.com/chandrashekhar14d)
+* [Kanishk Mehta](https://github.com/kanishkmehta29)
