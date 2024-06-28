@@ -39,7 +39,7 @@ The Food Ordering website - QuickBite is built using [Django](https://www.django
 </p>
 * <b> FoodOutlet Display </b>:</br>
 
-![homepage](https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/foodoutlets.png)</br></br>
+![homepage](https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/foodoutlets.png)</br></br></br>
 * <b> Addfoodsection (only visible to staff) </b>:</br>
 
 <p align = "center" style="margin: 70px; margin-top: 20px;">
@@ -62,13 +62,15 @@ The Food Ordering website - QuickBite is built using [Django](https://www.django
 <div align = "center" style="display: flex; justify-content: center; margin-top: 20px;">
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/subsections.png" alt="image3" height="300"/>
 </div>
+</br>
 
-*  <b> Addsection and Addsubsection options(* only visible to respective outlet owners )
+*  <b> Addsection and Addsubsection options(* only visible to respective outlet owners ) </br></br>
   <p align="center">
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/addsection.png" height="300" width="45%"/>
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/addsubsection.png" height="300" width="45%"/>
 </p>
-  
+</br>
+
 *  <b> Users can order items by simply clicking 'order' in the subsection of their choice </b></br></br></br>
 
 * <b> Current Order and Order Confirmation Pages </b></br></br>
@@ -78,29 +80,31 @@ The Food Ordering website - QuickBite is built using [Django](https://www.django
 <div align = "center" style="display: flex; justify-content: center; margin-top: 20px;">
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/orderconfirmation.png" alt="image3" height="450"  />
 </div>
+</br>
 
 * <b> OrderLogs (Deliverd(Blue) and Active(Green) orders)</b>:</br>
 <p align="center">
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/orderlogprevnew.png" height="500" width="45%"/>
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/orderlogcurr.png" height="500" width="50%" style="object-fit: cover;"/>
 </p>
-
+</br>
 
 * <b> Email Notifications on Placing and Receiving Orders </b>:</br>
 <p align="center">
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/ordersplacednew.png" height="300" width="45%"/>
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/orderdelivedrednew.png" height="300" width="45%"/>
 </p>
-
+</br>
 
 * <b> OrderReceived(Visible to Respective Outlet Ownners) (Deliverd(Blue) and Due(Yellow) orders)</b>:</br></br></br>
 <p align="center">
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/ordersreceivedlognew.png" height="500" width="45%"/>
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/ordersrecievedcurr.png" height="500" width="50%" style="object-fit: cover;"/>
 </p>
+</br>
 
 * <b> Outlet  owners can just click 'Delivered' to update the status and send notification to customers </b></br>
-
+</br>
 
 * <b> Access Denied Page (on visiting restricted pages like accessing some other users orders etc ..) </b></br>
 <div align = "center" style="display: flex; justify-content: center; margin-top: 20px;">
@@ -111,6 +115,6 @@ The Food Ordering website - QuickBite is built using [Django](https://www.django
 
 # Team:
 
-This project was made by:
+* **This Project was made By :**
 * [Chandrashekhar Dharmarajan](https://github.com/chandrashekhar14d)
 * [Kanishk Mehta](https://github.com/kanishkmehta29)
