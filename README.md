@@ -83,6 +83,6 @@ The Food Ordering website - QuickBite is built using [Django](https://www.django
 </p>
 * <b> Email Notifications on Placing and Receiving Orders </b></br> </br>
 <p align="center">
-  <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/orderplacednew.png" height="300" width="45%"/>
-  <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/orderdeliverednew.png" height="300" width="45%"/>
+  <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/ordersplacednew.png" height="300" width="45%"/>
+  <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/ordersdeliverednew.png" height="300" width="45%"/>
 </p>
