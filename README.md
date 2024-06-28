@@ -22,6 +22,7 @@ The Food Ordering website - QuickBite is built using [Django](https://www.django
   - Update the delivery status of orders to ensure customers receive notifications and maintain accuracy.
  
 # Website(Visuals)
+* ![Example Image](https://user-images.githubusercontent.com/12345678/uniqueimageid.png)
 
 
   
