@@ -32,6 +32,11 @@ The Food Ordering website - QuickBite is built using [Django](https://www.django
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/login.png" height="300" width="45%"/>
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/signup.png" height="300" width="45%"/>
 </p>
+* <b> Feature Image </b>:</br>
+
+<p align="left" style="margin-left: 20px;">
+  <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/emailverification.png" alt="featureimage" height="150"/>
+</p>
 
 
 
