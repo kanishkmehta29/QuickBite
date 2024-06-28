@@ -86,7 +86,7 @@ The Food Ordering website - QuickBite is built using [Django](https://www.django
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/ordersplacednew.png" height="300" width="45%"/>
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/orderdelivedrednew.png" height="300" width="45%"/>
 </p>
-* <b> OrderReceived(Visible to Respective Outlet Ownners) (Deliverd(Blue) and Due(Yellow) orders)</b>:</br>
+* <b> OrderReceived(Visible to Respective Outlet Ownners) (Deliverd(Blue) and Due(Yellow) orders)</b>:</br></br></br>
 <p align="center">
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/ordersreceivedlognew.png" height="500" width="45%"/>
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/ordersrecievedcurr.png" height="500" width="50%" style="object-fit: cover;"/>
