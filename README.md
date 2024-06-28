@@ -20,6 +20,8 @@ The Food Ordering website - QuickBite is built using [Django](https://www.django
   - Owners can view the orders that have been placed, including their delivery status, in the **Orders Received** section.
   - Receive **email notifications** whenever an order is placed.
   - Update the delivery status of orders to ensure customers receive notifications and maintain accuracy.
+ 
+# Website(Visuals)
 
 
   
