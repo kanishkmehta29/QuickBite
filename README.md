@@ -56,17 +56,17 @@ The Food Ordering website - QuickBite is built using [Django](https://www.django
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/beverages.png" alt="image3" height="300"/>
 </div>
 
-* <b> Subsections (Example shown for section 'Chaat_Items' in Lohit Canteen) </b></br></br>
+*  <b> Subsections (Example shown for section 'Chaat_Items' in Lohit Canteen) </b></br></br>
 <div align = "center" style="display: flex; justify-content: center; margin-top: 20px;">
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/subsections.png" alt="image3" height="300"/>
 </div>
-* <b> Addsection and Addsubsection options(* only visible to respective outlet owners )
+*  <b> Addsection and Addsubsection options(* only visible to respective outlet owners )
   <p align="center">
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/addsection.png" height="300" width="45%"/>
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/addsubsection.png" height="300" width="45%"/>
 </p>
   
-* <b> Users can order items by simply clicking 'order' in the subsection of their choice </b></br></br></br>
+*  <b> Users can order items by simply clicking 'order' in the subsection of their choice </b></br></br></br>
 
 * <b> Current Order and Order Confirmation Pages </b></br></br>
 <div align = "center" style="display: flex; justify-content: center; margin-top: 20px;">
@@ -76,19 +76,19 @@ The Food Ordering website - QuickBite is built using [Django](https://www.django
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/orderconfirmation.png" alt="image3" height="450"  />
 </div>
 
-* <b> OrderLogs (Deliverd(Blue) and Active(Green) orders)</b></br></br>
+*  <b> OrderLogs (Deliverd(Blue) and Active(Green) orders)</b></br></br>
 <p align="center">
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/orderlogprevnew.png" height="500" width="45%"/>
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/orderlogcurr.png" height="500" width="50%" style="object-fit: cover;"/>
 </p>
-* <b> Email Notifications on Placing and Receiving Orders </b></br> </br>
+*  <b> Email Notifications on Placing and Receiving Orders </b></br> </br>
 <p align="center">
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/ordersplacednew.png" height="300" width="45%"/>
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/orderdelivedrednew.png" height="300" width="45%"/>
 </p>
-* <b> OrderReceived(Visible to Respective Outlet Ownners) (Deliverd(Blue) and Due(Yellow) orders)</b></br></br>
+*  <b> OrderReceived(Visible to Respective Outlet Ownners) (Deliverd(Blue) and Due(Yellow) orders)</b></br></br>
 <p align="center">
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/ordersreceivedlognew.png" height="500" width="45%"/>
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/ordersrecievedcurr.png" height="500" width="50%" style="object-fit: cover;"/>
 </p>
-* <b> Outlet  owners can just click 'Delivered' to update the status and send notification to customers</b></br></br>
+*  <b> Outlet  owners can just click 'Delivered' to update the status and send notification to customers</b></br></br>
