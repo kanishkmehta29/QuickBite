@@ -62,6 +62,7 @@ The Food Ordering website - QuickBite is built using [Django](https://www.django
 <div align = "center" style="display: flex; justify-content: center; margin-top: 20px;">
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/subsections.png" alt="image3" height="300"/>
 </div>
+
 *  <b> Addsection and Addsubsection options(* only visible to respective outlet owners )
   <p align="center">
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/addsection.png" height="300" width="45%"/>
