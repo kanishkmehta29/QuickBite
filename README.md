@@ -34,7 +34,7 @@ The Food Ordering website - QuickBite is built using [Django](https://www.django
 </p>
 * <b> Email Verification </b>:</br>
 
-<p style="margin-left: 70px; margin-top: 20px;">
+<p style="margin-centre: 70px; margin-top: 20px;">
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/emailverification.png" alt="featureimage" height="300"/>
 </p>
 
