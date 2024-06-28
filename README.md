@@ -45,12 +45,16 @@ The Food Ordering website - QuickBite is built using [Django](https://www.django
 <p align = "center" style="margin: 70px; margin-top: 20px;">
   <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/addfoodoutlet.png" alt="featureimage" height="300"/>
 </p>
-* <b> FoodOutlet Display and Addfoodsection (only visible to staff) </b>:</br>
+<b> Images Layout </b></br></br>
 
-<p align="center">
-  <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/foodoutlets.png" height="300" width="45%"/>
-  <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/addfoodoutlet.png" height="300" width="45%"/>
-</p>
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/snacks.png" alt="image1" height="200" style="margin-right: 10px;"/>
+  <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/maincourse.png" alt="image2" height="200" style="margin-left: 10px;"/>
+</div>
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <img src="https://github.com/chandrashekhar14d/QuickBite/blob/main/quickbiteimages/beverages.png" alt="image3" height="200"/>
+</div>
+
 
 
 
